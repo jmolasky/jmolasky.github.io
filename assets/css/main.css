@@ -211,6 +211,10 @@ input, select, textarea {
 		clear: both;
 	}
 
+	#download {
+		margin-bottom: 2em;
+	}
+
 /* Container */
 
 	.container {
